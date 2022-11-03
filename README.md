@@ -7,3 +7,4 @@ This is the sixth line.
 Added 7th line on main branch.
 This line is created on our testing branch.
 Added 9th line to testing branch.
+Made another line in new-branch branch.
